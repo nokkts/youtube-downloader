@@ -3,7 +3,7 @@
 Aplicativo desktop (Windows, também roda em Linux/macOS) para baixar vídeos do YouTube **100% localmente**:
 escolha formato (MP4/MP3), qualidade e o **trecho exato** do vídeo. Sem backend, sem serviços pagos, sem enviar nada a servidores.
 
-> Baixe apenas conteúdo que você tem autorização para baixar. O app não contorna DRM, login, restrição de idade
+> O app não contorna DRM, login, restrição de idade
 > nem qualquer proteção de acesso, e não lê cookies do navegador.
 
 ## Instalação
